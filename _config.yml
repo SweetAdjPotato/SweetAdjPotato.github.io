@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   I obtained a data scientist certificate recently from Udacity Data Scientist Nanodegree program, I am currently diving in deep learning 
   and sharpen my skills everyday. 
   <br><br>
-  <a href="https://www.linkedin.com/in/zhaoyunma/"><img src="images/linkedin_logo.png" alt="logo" />View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/zhaoyunma/"><img src="/images/linkedin_logo.png" alt="logo" />View My LinkedIn Profile</a>
   
   
 theme: jekyll-theme-minimal
