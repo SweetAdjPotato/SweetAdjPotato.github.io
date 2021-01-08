@@ -1,13 +1,15 @@
 title: Zhaoyun Ma # your name (or website title) here
 logo: "/images/my_picture.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I developed my interest in data science after the Covid pandemic, I was amazed by that what insights we can get from the data and 
+  I developed my interest in data science right after the Covid pandemic, I was amazed by that what insights we can get from the data and 
   we can actually predict where the virus is spreading, how it is mutating and its effect on economies. Fascinating! I feel so excited and
   started to learn everything I can becaused I have to, python, SQL, statistics, exploratary analysis, machine learning, neural networks... 
   <br><br>
-  Second description 
+  I obtained a data scientist certificate recently from Udacity Data Scientist Nanodegree program, I am currently diving in the deep learning 
+  and sharpen my skills everyday. 
   <br><br>
-  <a href="https://www.linkedin.com/in/zhaoyunma/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/zhaoyunma/"><img src="img/logo.png" alt="logo" />View My LinkedIn Profile</a>
+  
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
