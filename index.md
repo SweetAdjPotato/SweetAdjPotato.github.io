@@ -5,9 +5,10 @@
 ### Data Science
 
 [Boston Airbnb Price Estimator](/project_1)
-<img src="images/project_1/project-1_1.png?raw=true"/>
+<img src="images/project_1/project-1_1.png"/>
 <img src="images/project_1/project-1_2.png?raw=true"/>
 <img src="images/project_1/project-1_3.png?raw=true"/>
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
