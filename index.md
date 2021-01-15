@@ -2,11 +2,12 @@
 
 ---
 
-### Category Name 1 
+### Data Science
 
-[Project 1 Title](/project_1)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Boston Airbnb Price Estimator](/project_1)
+<img src="images/project_1/project-1_1.png?raw=true"/>
+<img src="images/project_1/project-1_2.png?raw=true"/>
+<img src="images/project_1/project-1_3.png?raw=true"/>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +18,7 @@
 
 ---
 
-### Category Name 2
+### Machine Learning
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
