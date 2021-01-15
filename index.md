@@ -6,17 +6,17 @@
 
 [Boston Airbnb Price Estimator](/project_1)
 
-<img src="images/project1/project_1.png?raw=true"/>
+<img src="images/DS_project/project_1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/DS_project/project_2.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/DS_project/project_3.png?raw=true"/>
 
 ---
 
