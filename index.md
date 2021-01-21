@@ -24,13 +24,23 @@
 <img src="DS_project/project_4.png?raw=true"/>
 ---
 
-### Machine Learning
+### Machine Learning and Deep Learning
 
 [Sentiment Analysis Web App Deployment](https://github.com/SweetAdjPotato/Sentiment-Analysis-WepApp-Deployment)
 
 <img src="ML_project/web_app_demo.gif?raw=true"/>
 ---
 
+[Dog Breed Classifier using CNN](https://github.com/SweetAdjPotato/dog-breed-classifier)
+
+<img src="ML_project/Dog_breed_classifier_sample_result.png?raw=true"/>
+---
+
+[Predict Bike Sharing Pattern](https://github.com/SweetAdjPotato/predict-bike-sharing-pattern)
+
+<img src="ML_project/bike-sharing_pattern_result.png?raw=true"/>
+
+---
 [Plagiarism Detector](https://github.com/SweetAdjPotato/plagairism-detector)
 
 ---
