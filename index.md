@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Data Science
+## Data Science
 
 [Boston Airbnb Price Estimator](https://zhaoyunma.medium.com/boston-airbnb-listing-price-estimator-ea34e5370395)
 
@@ -24,7 +24,7 @@
 <img src="DS_project/project_4.png?raw=true"/>
 ---
 
-### Machine Learning and Deep Learning
+## Machine Learning and Deep Learning
 
 [Sentiment Analysis Web App Deployment](https://github.com/SweetAdjPotato/Sentiment-Analysis-WepApp-Deployment)
 
