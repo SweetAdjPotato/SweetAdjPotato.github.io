@@ -29,6 +29,13 @@
 
 ---
 
+### [Credit Risk Assessment](https://www.kaggle.com/zhaoyunma/credit-risk-prediction)
+
+<img src="DS_project/project_51.png?raw=true"/>
+<img src="DS_project/project_52.png?raw=true"/>
+
+---
+
 ## Machine Learning and Deep Learning
 
 
